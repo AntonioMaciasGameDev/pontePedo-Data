@@ -1,0 +1,31 @@
+{
+  "paquetes": [
+    {
+      "id": "verdadoreto",
+      "nombre": "Verdad o Reto",
+      "descripcion": "El clásico juego para fiestas",
+      "totalPreguntas": 1000,
+      "gratuitas": 30,
+      "esPremiumOnly": false,
+      "iconoURL": "https://tusitio.com/img/verdadoreto.png"
+    },
+    {
+      "id": "shots",
+      "nombre": "Shots Challenge",
+      "descripcion": "¡Toma si no quieres contestar!",
+      "totalPreguntas": 250,
+      "gratuitas": 0,
+      "esPremiumOnly": true,
+      "iconoURL": "https://tusitio.com/img/shots.png"
+    },
+    {
+      "id": "hotpack",
+      "nombre": "Modo HOT 🔥",
+      "descripcion": "Solo para parejas atrevidas",
+      "totalPreguntas": 150,
+      "gratuitas": 10,
+      "esPremiumOnly": false,
+      "iconoURL": "https://tusitio.com/img/hot.png"
+    }
+  ]
+}
