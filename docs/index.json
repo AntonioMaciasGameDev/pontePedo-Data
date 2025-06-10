@@ -37,15 +37,6 @@
       "iconoURL": "https://tusitio.com/img/verdadoreto.png"
     },
     {
-      "id": "shots",
-      "nombre": "Shots Challenge",
-      "descripcion": "¡Toma si no quieres contestar!",
-      "totalPreguntas": 250,
-      "gratuitas": 0,
-      "esPremiumOnly": true,
-      "iconoURL": "https://tusitio.com/img/shots.png"
-    },
-    {
       "id": "reto",
       "nombre": "Reto",
       "descripcion": "Retos. Para safarte, debes tomar la cantidad de tragos que indique la carta. Mientras más alto el nivel, más tragos.",
