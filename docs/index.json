@@ -1,9 +1,36 @@
 {
   "paquetes": [
     {
-      "id": "verdadoreto",
-      "nombre": "Verdad o Reto",
-      "descripcion": "El clásico juego para fiestas",
+      "id": "regla",
+      "nombre": "Iniciamos una regla que aplicará por el resto de la noche, a menos que otra regla aparezca.",
+      "descripcion": "...",
+      "totalPreguntas": 1000,
+      "gratuitas": 30,
+      "esPremiumOnly": false,
+      "iconoURL": "https://tusitio.com/img/verdadoreto.png"
+    },
+    {
+      "id": "horadelte",
+      "nombre": "Hora del té",
+      "descripcion": "Preguntas abiertas, encaminadas a aprender más sobre los jugadores.",
+      "totalPreguntas": 250,
+      "gratuitas": 0,
+      "esPremiumOnly": true,
+      "iconoURL": "https://tusitio.com/img/shots.png"
+    },
+    {
+      "id": "culpable",
+      "nombre": "Culpable",
+      "descripcion": "A la cuenta de 3 todos deben señalar a alguien. Quien reciba más votos, toma shot.",
+      "totalPreguntas": 150,
+      "gratuitas": 10,
+      "esPremiumOnly": false,
+      "iconoURL": "https://tusitio.com/img/hot.png"
+    },
+     {
+      "id": "shot",
+      "nombre": "¡Shot!",
+      "descripcion": "Tomas si cumples con las condicionantes. Alternativamente, puedes permitirle al jugador elegir quién toma, si cumple una condicionante.",
       "totalPreguntas": 1000,
       "gratuitas": 30,
       "esPremiumOnly": false,
@@ -19,9 +46,45 @@
       "iconoURL": "https://tusitio.com/img/shots.png"
     },
     {
-      "id": "hotpack",
-      "nombre": "Modo HOT 🔥",
-      "descripcion": "Solo para parejas atrevidas",
+      "id": "reto",
+      "nombre": "Reto",
+      "descripcion": "Retos. Para safarte, debes tomar la cantidad de tragos que indique la carta. Mientras más alto el nivel, más tragos.",
+      "totalPreguntas": 150,
+      "gratuitas": 10,
+      "esPremiumOnly": false,
+      "iconoURL": "https://tusitio.com/img/hot.png"
+    },
+     {
+      "id": "yonuncanunca",
+      "nombre": "Yo nunca nunca",
+      "descripcion": "Presentamos un escenario. Quienes hayan hecho lo que 'nunca nunca' se ha hecho, toman.",
+      "totalPreguntas": 1000,
+      "gratuitas": 30,
+      "esPremiumOnly": false,
+      "iconoURL": "https://tusitio.com/img/verdadoreto.png"
+    },
+    {
+      "id": "juego",
+      "nombre": "Juego",
+      "descripcion": "Set con varios juegos: Mi pepa mi pito, caricachupas, cascada, teléfono.",
+      "totalPreguntas": 250,
+      "gratuitas": 0,
+      "esPremiumOnly": true,
+      "iconoURL": "https://tusitio.com/img/shots.png"
+    },
+    {
+      "id": "trivia",
+      "nombre": "Trivia",
+      "descripcion": "Preguntas de cultura general. El primero en responder, ordena shot. El que está preguntando no toma.",
+      "totalPreguntas": 150,
+      "gratuitas": 10,
+      "esPremiumOnly": false,
+      "iconoURL": "https://tusitio.com/img/hot.png"
+    },
+    {
+      "id": "queprefieres",
+      "nombre": "Qué prefieres",
+      "descripcion": "Preguntas estilo disparejo.",
       "totalPreguntas": 150,
       "gratuitas": 10,
       "esPremiumOnly": false,
