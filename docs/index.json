@@ -2,8 +2,8 @@
   "paquetes": [
     {
       "id": "regla",
-      "nombre": "Iniciamos una regla que aplicará por el resto de la noche, a menos que otra regla aparezca.",
-      "descripcion": "...",
+      "nombre": "Regla",
+      "descripcion": "Iniciamos una regla que aplicará por el resto de la noche, a menos que otra regla aparezca.",
       "totalPreguntas": 1000,
       "gratuitas": 30,
       "esPremiumOnly": false,
