@@ -1,12 +1,124 @@
 {
   "preguntas": [
     {
-      "texto": "Canta una canción de reggaetón mirando a {{OTRO}}.",
+      "texto": "Chupar un limón sin hacer expresiones",
       "intensidad": 1
     },
     {
-      "texto": "Baila como un robot durante 10 segundos.",
-      "intensidad": -1
+      "texto": "Recibir un pellizco de cada jugador",
+      "intensidad": 2
+    },
+    {
+      "texto": "Jugador@1 lamer el pie del jugador @3",
+      "intensidad": 3
+    },
+    {
+      "texto": "Con los ojos cerrados, debes adivinar de quien es la parte del cuerpo que tocas",
+      "intensidad": 3
+    },
+    {
+      "texto": "Manda mensaje a tu ex",
+      "intensidad": 2
+    },
+    {
+      "texto": "Debes mostrar tu último dm en instagram",
+      "intensidad": 2
+    },
+    {
+      "texto": "@jugador 1 y @jugador4,  5 minutos en el paraíso con el de tu izquierda",
+      "intensidad": 3
+    },
+    {
+      "texto": "Quitate una prenda",
+      "intensidad": 2
+    },
+    {
+      "texto": "Si tuvieras que casarte con @jugador 1, o @jugador 2, ¿a quién elegirías?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Matas, coges o te casas? // Banco de jugadores o celebridades.",
+      "intensidad": 3
+    },
+    {
+      "texto": "@Jugador 1, tienes que dar la hora cada 5 min. Si se te olvida, tomas shot.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombra 3 cosas que te hagan gemir",
+      "intensidad": 2
+    },
+    {
+      "texto": "Toma un trago de la bebida del @jugador3",
+      "intensidad": 1
+    },
+    {
+      "texto": "Come una cucharada de picante",
+      "intensidad": 1
+    },
+    {
+      "texto": "Publica un estado de Instagram/ whatsapp vergonzoso",
+      "intensidad": 1
+    },
+    {
+      "texto": "Cambia tu foto de perfil de whats por una que eligan los jugadores, debes dejarla al menos 3 rondas.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Dale un beso a @jugador2 en la parte del cuerpo que prefieras",
+      "intensidad": 3
+    },
+    {
+      "texto": "@jugador 1 cambia una prenda con el @jugador 2.",
+      "intensidad": 2
+    },
+    {
+      "texto": "muestra a quienes tienes en \"close friends\"",
+      "intensidad": 2
+    },
+    {
+      "texto": "llamale a tu ex",
+      "intensidad": 3
+    },
+    {
+      "texto": "Publica un estado de Instagram/ whatsapp llorando",
+      "intensidad": 2
+    },
+    {
+      "texto": "Ponerse un shot en la boca y pasarselo a otro jugador",
+      "intensidad": 3
+    },
+    {
+      "texto": "jugador 1 y jugador 2 juEguen semana inglesa",
+      "intensidad": 3
+    },
+    {
+      "texto": "beso de 3 entre, @jugador1, @jugador2 y @jugador3",
+      "intensidad": 3
+    },
+    {
+      "texto": "No parpadear durante 1 minuto",
+      "intensidad": 1
+    },
+    {
+      "texto": "jugador 1 toma un body shot de jugador 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "quitate la camisa",
+      "intensidad": 3
+    },
+    {
+      "texto": "jugador 1 hazle un masaje a jugador 2 por 5 minutos",
+      "intensidad": 3
+    },
+    {
+      "texto": "jugador 1 susurrale algo sucio a jugador 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "jugador 1 besa el cuello de jugador 2 ",
+      "intensidad": 3
     }
   ]
 }

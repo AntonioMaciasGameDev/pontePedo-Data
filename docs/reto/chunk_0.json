@@ -1,0 +1,124 @@
+{
+  "preguntas": [
+    {
+      "texto": "besa a la persona que llevarias a una cita",
+      "intensidad": 3
+    },
+    {
+      "texto": "menciona a la persona mas atractiva presente",
+      "intensidad": 2
+    },
+    {
+      "texto": "jugador 1 besa al jugador 2 o al jugador 3",
+      "intensidad": 3
+    },
+    {
+      "texto": "intenta tomar 1 trago sin usar las manos",
+      "intensidad": 2
+    },
+    {
+      "texto": "quedate parado una ronda",
+      "intensidad": 1
+    },
+    {
+      "texto": "no puedes tocar el suelo por una ronda",
+      "intensidad": 1
+    },
+    {
+      "texto": "jugador 1 cambia tu bedida con jugador 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "entre todos los jugadores te prepararan un trago secreto y deberas tomartelo ",
+      "intensidad": 2
+    },
+    {
+      "texto": "jugador 1 y jugador 2 suban una historia pidiendo algun consejo, toman por cada px que les conteste",
+      "intensidad": 2
+    },
+    {
+      "texto": "A imitar al @jugador1",
+      "intensidad": 2
+    },
+    {
+      "texto": "mandale mensaje a un exprofesor ",
+      "intensidad": 2
+    },
+    {
+      "texto": "jugador 1 hazle un tatuaje con pluma a jugador 2 ",
+      "intensidad": 2
+    },
+    {
+      "texto": "mandale un mensaje a tu crush de secundaria",
+      "intensidad": 2
+    },
+    {
+      "texto": "Recita el abecedario al revés ",
+      "intensidad": 2
+    },
+    {
+      "texto": "Muestra una foto con tu ex",
+      "intensidad": 3
+    },
+    {
+      "texto": "Muestra una foto tuya que te de pena",
+      "intensidad": 2
+    },
+    {
+      "texto": "Grita el nombre de la persona que te gusta",
+      "intensidad": 2
+    },
+    {
+      "texto": "Haz 8 flexiones",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cuenta un secreto vergonzoso de tu vida amorosa",
+      "intensidad": 3
+    },
+    {
+      "texto": "Imita el sonido de 5 animales",
+      "intensidad": 2
+    },
+    {
+      "texto": "Imita un gemido",
+      "intensidad": 3
+    },
+    {
+      "texto": "Intercambia ropa con @jugador1 ",
+      "intensidad": 3
+    },
+    {
+      "texto": "Deja que entre todos te hagan un tatuaje con pluma",
+      "intensidad": 2
+    },
+    {
+      "texto": "Aliméntate de alguien del grupo de forma sensual",
+      "intensidad": 3
+    },
+    {
+      "texto": "Comparte una fantasía sexual con lujo de detalle",
+      "intensidad": 3
+    },
+    {
+      "texto": "Besa a alguien del grupo por al menos 5 segundos",
+      "intensidad": 3
+    },
+    {
+      "texto": "Terminarte una caguama en un jalón",
+      "intensidad": 3
+    },
+    {
+      "texto": "Terminarte una media de cerveza de jalón ",
+      "intensidad": 2
+    },
+    {
+      "texto": "Mencionar un defecto de cada juagdor",
+      "intensidad": 3
+    },
+    {
+      "texto": "Recrea el paso de Anita",
+      "intensidad": 3
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "preguntas": [
+    {
+      "texto": "Muestra tu historial de emojis más usados",
+      "intensidad": 1
+    },
+    {
+      "texto": "Simula tu primer beso con algún objeto",
+      "intensidad": 2
+    },
+    {
+      "texto": "Publica un estado donde uses una palabra que elegirán los del grupo",
+      "intensidad": 2
+    },
+    {
+      "texto": "Manten tu lengua de fuera por una ronda",
+      "intensidad": 1
+    },
+    {
+      "texto": "Menciona tres personas del grupo con quien sí tendrías una cita",
+      "intensidad": 2
+    },
+    {
+      "texto": "Di una verdad que hayas ocultado en una relación",
+      "intensidad": 2
+    },
+    {
+      "texto": "Di cual fue tu mejor o peor beso pero sin decir con quien fue",
+      "intensidad": 2
+    },
+    {
+      "texto": "Haz una pregunta hot al grupo y tú debes responder al final",
+      "intensidad": 2
+    },
+    {
+      "texto": "Da un beso de \"piquito\" a todos los del grupo ",
+      "intensidad": 3
+    },
+    {
+      "texto": "Dale una nalgada a la persona que esta a tu derecha",
+      "intensidad": 2
+    },
+    {
+      "texto": "Pasa un trago de una bebida a otra persona de boca a boca",
+      "intensidad": 2
+    },
+    {
+      "texto": "Di 3 cosas que harías por dinero y 1 gratis",
+      "intensidad": 2
+    },
+    {
+      "texto": "Come una cucharada de azúcar",
+      "intensidad": 1
+    },
+    {
+      "texto": "Durante 5 segundos debes recibir \"pamba\" de todos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Manda una selfie a un chat sin decir nada",
+      "intensidad": 1
+    },
+    {
+      "texto": "Asomarte a la calle y gritar \"chelas gratis en mi casa\"",
+      "intensidad": 2
+    },
+    {
+      "texto": "Intenta juntar tus palmas por detras de tu espalda",
+      "intensidad": 1
+    },
+    {
+      "texto": "Deja que te hagan cosquillas durante 30 segundos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Intenta llorar hasta sacar una lágrima frente a todos",
+      "intensidad": 1
+    },
+    {
+      "texto": "No dejes de sonreír durante una ronda",
+      "intensidad": 1
+    },
+    {
+      "texto": "Eructa",
+      "intensidad": 2
+    },
+    {
+      "texto": "Reproduce una canción que te guste en secreto por ser muy rara",
+      "intensidad": 1
+    },
+    {
+      "texto": "Publica una nota con canción en instagram y deja que los demás decidan que canción será",
+      "intensidad": 2
+    },
+    {
+      "texto": "vierte tu bebida en algo que no sea un vaso, y toma de ahi.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Ponte un caballito a presión en los labios durante 1 minuto o hasta que tus labios se ensanchen ",
+      "intensidad": -1
+    },
+    {
+      "texto": "Deja que un jugador te de un beso",
+      "intensidad": -1
+    },
+    {
+      "texto": "Estira tus brazos hacia arriba de tu cabeza y mantenlos ahí durante una ronda",
+      "intensidad": -1
+    },
+    {
+      "texto": "Inclina tu cabeza hacia atrás durante una ronda",
+      "intensidad": -1
+    },
+    {
+      "texto": "Tocar tu cara con tu pie",
+      "intensidad": -1
+    },
+    {
+      "texto": "@jugador1 y @jugador2 juntes sus cachetes por 30 segundos. ",
+      "intensidad": -1
+    }
+  ]
+}
