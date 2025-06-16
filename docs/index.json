@@ -40,10 +40,10 @@
       "id": "reto",
       "nombre": "Reto",
       "descripcion": "Retos. Para safarte, debes tomar la cantidad de tragos que indique la carta. Mientras más alto el nivel, más tragos.",
-      "totalPreguntas": 150,
-      "gratuitas": 10,
+      "totalPreguntas": 242,
+      "gratuitas": 30,
       "esPremiumOnly": false,
-      "iconoURL": "https://tusitio.com/img/hot.png"
+      "iconoURL": ""
     },
      {
       "id": "yonuncanunca",
