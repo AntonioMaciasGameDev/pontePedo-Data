@@ -1,123 +1,123 @@
 {
   "preguntas": [
     {
-      "texto": "Muestra tu historial de emojis más usados",
+      "texto": "Muestra tu historial de emojis más usados || 2",
       "intensidad": 1
     },
     {
-      "texto": "Simula tu primer beso con algún objeto",
+      "texto": "Simula tu primer beso con algún objeto || 3",
       "intensidad": 2
     },
     {
-      "texto": "Publica un estado donde uses una palabra que elegirán los del grupo",
+      "texto": "Publica un estado donde uses una palabra que elegirán los del grupo || 2",
       "intensidad": 2
     },
     {
-      "texto": "Manten tu lengua de fuera por una ronda",
+      "texto": "Manten tu lengua de fuera por una ronda || 4",
       "intensidad": 1
     },
     {
-      "texto": "Menciona tres personas del grupo con quien sí tendrías una cita",
+      "texto": "Menciona tres personas del grupo con quien sí tendrías una cita || 3",
       "intensidad": 2
     },
     {
-      "texto": "Di una verdad que hayas ocultado en una relación",
+      "texto": "Di una verdad que hayas ocultado en una relación || 3",
       "intensidad": 2
     },
     {
-      "texto": "Describe cual fue tu mejor o peor beso pero sin decir con quien fue",
+      "texto": "Describe cual fue tu mejor o peor beso pero sin decir con quien fue || 1",
       "intensidad": 2
     },
     {
-      "texto": "Haz una pregunta hot al grupo y tú debes responder al final",
+      "texto": "Haz una pregunta hot al grupo y tú debes responder al final || 3",
       "intensidad": 2
     },
     {
-      "texto": "Da un beso de \"piquito\" a todos los del grupo ",
+      "texto": "Da un beso de \"piquito\" a todos los del grupo  || 4",
       "intensidad": 3
     },
     {
-      "texto": "Dale una nalgada a la persona que esta a tu derecha",
+      "texto": "Dale una nalgada a la persona que esta a tu derecha || 1",
       "intensidad": 3
     },
     {
-      "texto": "Pasa un trago de una bebida a otra persona de boca a boca",
+      "texto": "Pasa un trago de una bebida a otra persona de boca a boca || 3",
       "intensidad": 3
     },
     {
-      "texto": "Di 3 cosas que harías por dinero y 1 gratis",
+      "texto": "Di 3 cosas que harías por dinero y 1 gratis || 2",
       "intensidad": 2
     },
     {
-      "texto": "Come una cucharada de azúcar",
+      "texto": "Come una cucharada de azúcar || 3",
       "intensidad": 1
     },
     {
-      "texto": "Durante 5 segundos debes recibir \"pamba\" de todos (un leve golpe en la cabeza u otra parte del cuerpo)",
+      "texto": "Durante 5 segundos debes recibir \"pamba\" de todos (un leve golpe en la cabeza u otra parte del cuerpo) || 2",
       "intensidad": 2
     },
     {
-      "texto": "Manda una selfie a un chat sin decir nada",
+      "texto": "Manda una selfie a un chat sin decir nada || 4",
       "intensidad": 1
     },
     {
-      "texto": "Asomarte a la calle y gritar \"chelas gratis en mi casa\"",
+      "texto": "Asomarte a la calle y gritar \"chelas gratis en mi casa\" || 1",
       "intensidad": 2
     },
     {
-      "texto": "Intenta juntar tus palmas por detras de tu espalda",
+      "texto": "Intenta juntar tus palmas por detras de tu espalda || 3",
       "intensidad": 1
     },
     {
-      "texto": "Deja que te hagan cosquillas durante 30 segundos",
+      "texto": "Deja que te hagan cosquillas durante 30 segundos || 4",
       "intensidad": 1
     },
     {
-      "texto": "Intenta llorar hasta sacar una lágrima frente a todos",
+      "texto": "Intenta llorar hasta sacar una lágrima frente a todos || 2",
       "intensidad": 1
     },
     {
-      "texto": "No dejes de sonreír durante una ronda",
+      "texto": "No dejes de sonreír durante una ronda || 3",
       "intensidad": 1
     },
     {
-      "texto": "Eructa",
+      "texto": "Eructa || 2",
       "intensidad": 2
     },
     {
-      "texto": "Reproduce una canción que te guste en secreto por ser muy rara",
+      "texto": "Reproduce una canción que te guste en secreto por ser muy rara || 3",
       "intensidad": 1
     },
     {
-      "texto": "Publica una nota con canción en instagram y deja que los demás decidan que canción será",
+      "texto": "Publica una nota con canción en instagram y deja que los demás decidan que canción será || 2",
       "intensidad": 2
     },
     {
-      "texto": "Vierte tu bebida en algo que no sea un vaso, el grupo elije que, toma de ahi.",
+      "texto": "Vierte tu bebida en algo que no sea un vaso, el grupo elije que, toma de ahi. || 3",
       "intensidad": 1
     },
     {
-      "texto": "Ponte un caballito a presión en los labios durante 1 minuto o hasta que tus labios se ensanchen ",
+      "texto": "Ponte un caballito a presión en los labios durante 1 minuto o hasta que tus labios se ensanchen  || 3",
       "intensidad": -1
     },
     {
-      "texto": "Deja que {{OTRO}} te de un beso",
+      "texto": "Deja que {{OTRO}} te de un beso || 3",
       "intensidad": 2
     },
     {
-      "texto": "Estira tus brazos hacia arriba de tu cabeza y mantenlos ahí durante una ronda",
+      "texto": "Estira tus brazos hacia arriba de tu cabeza y mantenlos ahí durante una ronda || 2",
       "intensidad": -1
     },
     {
-      "texto": "Inclina tu cabeza hacia atrás durante una ronda",
+      "texto": "Inclina tu cabeza hacia atrás durante una ronda || 2",
       "intensidad": -1
     },
     {
-      "texto": "Tocar tu cara con tu pie",
+      "texto": "Tocar tu cara con tu pie || 3",
       "intensidad": -1
     },
     {
-      "texto": "{{YO}} y {{OTRO}} juntes sus cachetes por 30 segundos. ",
+      "texto": "{{YO}} y {{OTRO}} juntes sus cachetes por 30 segundos.  || 3",
       "intensidad": 1
     }
   ]

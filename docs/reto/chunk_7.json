@@ -1,11 +1,11 @@
 {
   "preguntas": [
     {
-      "texto": "Quitate la cantidad de prendas que quieras que alguien tome ese mismo numero de shots.",
+      "texto": "Quitate la cantidad de prendas que quieras que alguien tome ese mismo numero de shots. || 2",
       "intensidad": 3
     },
     {
-      "texto": "Enseña todo lo que traigas contigo, en tu bolsa, cartera, bolsillos.",
+      "texto": "Enseña todo lo que traigas contigo, en tu bolsa, cartera, bolsillos. || 2",
       "intensidad": -1
     }
   ]

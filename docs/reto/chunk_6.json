@@ -1,123 +1,123 @@
 {
   "preguntas": [
     {
-      "texto": "{{YO}} y {{OTRO}} dense un beso esquimal. ",
+      "texto": "{{YO}} y {{OTRO}} dense un beso esquimal.  || 2",
       "intensidad": 2
     },
     {
-      "texto": "Juega una ronda con los ojos cerrados",
+      "texto": "Juega una ronda con los ojos cerrados || 4",
       "intensidad": -1
     },
     {
-      "texto": "Tu siguiente bebida preparatela con otro tipo de alcohol",
+      "texto": "Tu siguiente bebida preparatela con otro tipo de alcohol || 4",
       "intensidad": 1
     },
     {
-      "texto": "Juega recargado de {{OTRO}} por una ronda",
+      "texto": "Juega recargado de {{OTRO}} por una ronda || 4",
       "intensidad": -1
     },
     {
-      "texto": "Dile a tu 3er @ en insta que antes tenias un crush con el/ella",
+      "texto": "Dile a tu 3er @ en insta que antes tenias un crush con el/ella || 3",
       "intensidad": -1
     },
     {
-      "texto": "Abrigate con lo primero que encuentres. ",
+      "texto": "Abrigate con lo primero que encuentres.  || 4",
       "intensidad": -1
     },
     {
-      "texto": "Ponle cafe soluble a tu bebida o una bolsita de té. ",
+      "texto": "Ponle cafe soluble a tu bebida o una bolsita de té.  || 1",
       "intensidad": -1
     },
     {
-      "texto": "cierra los ojos y di el color de uñas de todos los jugadores, si fallas tomas. ",
+      "texto": "cierra los ojos y di el color de uñas de todos los jugadores, si fallas tomas.  || 1",
       "intensidad": -1
     },
     {
-      "texto": "Di el cumpleaños de cada jugador, los que digas bien toman, los que no sepas tomas tu.",
+      "texto": "Di el cumpleaños de cada jugador, los que digas bien toman, los que no sepas tomas tu. || 4",
       "intensidad": -1
     },
     {
-      "texto": "Quitate 2 prendas, no te las podras volver a poner por el resto de la noche",
+      "texto": "Quitate 2 prendas, no te las podras volver a poner por el resto de la noche || 1",
       "intensidad": 2
     },
     {
-      "texto": "Cada que vayas al baño te tendra que acompañar el {{OTRO}}",
+      "texto": "Cada que vayas al baño te tendra que acompañar el {{OTRO}} || 4",
       "intensidad": 2
     },
     {
-      "texto": "{{OTRO}} tomara la cantidad de tragos que te quiera hacer tomar.",
+      "texto": "{{OTRO}} tomara la cantidad de tragos que te quiera hacer tomar. || 2",
       "intensidad": 2
     },
     {
-      "texto": "Bebe un trago por cada persona con quien tendrías un faje de los presentes",
+      "texto": "Bebe un trago por cada persona con quien tendrías un faje de los presentes || 2",
       "intensidad": 2
     },
     {
-      "texto": "Comete un huevo crudo",
+      "texto": "Comete un huevo crudo || 2",
       "intensidad": 1
     },
     {
-      "texto": "{{YO}} y {{OTRO}} se ponen un hielo en la mano y cierran el puño es primero en soltarlo pierde y toma.",
+      "texto": "{{YO}} y {{OTRO}} se ponen un hielo en la mano y cierran el puño es primero en soltarlo pierde y toma. || 1",
       "intensidad": -1
     },
     {
-      "texto": "Quien se ria primero toma",
+      "texto": "Quien se ria primero toma || 2",
       "intensidad": 1
     },
     {
-      "texto": "Voltea a ver el techo y adivina el color del piso",
+      "texto": "Voltea a ver el techo y adivina el color del piso || 4",
       "intensidad": -1
     },
     {
-      "texto": "Cierra los ojos y adivina cuántos cuadros hay en las paredes",
+      "texto": "Cierra los ojos y adivina cuántos cuadros hay en las paredes || 3",
       "intensidad": -1
     },
     {
-      "texto": "Besa la nuca de {{OTRO}}",
+      "texto": "Besa la nuca de {{OTRO}} || 3",
       "intensidad": 2
     },
     {
-      "texto": "No puedes hablar por un turno.",
+      "texto": "No puedes hablar por un turno. || 2",
       "intensidad": -1
     },
     {
-      "texto": "Quitate los calcetines, si no traes, quitate el calzon. ",
+      "texto": "Quitate los calcetines, si no traes, quitate el calzon.  || 4",
       "intensidad": 3
     },
     {
-      "texto": "Rapea algo mientras que {{OTRO}} hace beatbox",
+      "texto": "Rapea algo mientras que {{OTRO}} hace beatbox || 4",
       "intensidad": -1
     },
     {
-      "texto": "Habla en idioma alienigena por 1 turno",
+      "texto": "Habla en idioma alienigena por 1 turno || 4",
       "intensidad": -1
     },
     {
-      "texto": "Imita a un reptil por un turno",
+      "texto": "Imita a un reptil por un turno || 4",
       "intensidad": -1
     },
     {
-      "texto": "Cuentanos una adivinansa que nadie se sepa, si alguien la sabe tomas. ",
+      "texto": "Cuentanos una adivinansa que nadie se sepa, si alguien la sabe tomas.  || 4",
       "intensidad": -1
     },
     {
-      "texto": "Cuentanos un chiste que nadie se sepa, si alguien se lo sabe tomas. ",
+      "texto": "Cuentanos un chiste que nadie se sepa, si alguien se lo sabe tomas.  || 1",
       "intensidad": -1
     },
     {
-      "texto": "Recrea alguna escena de alguna pelicula, quien adivine manda a tomar",
+      "texto": "Recrea alguna escena de alguna pelicula, quien adivine manda a tomar || 2",
       "intensidad": -1
     },
     {
-      "texto": "{{YO}} y {{OTRO}} jueguen piedra papel o tijera, mejor de 3, quien pierda toma",
+      "texto": "{{YO}} y {{OTRO}} jueguen piedra papel o tijera, mejor de 3, quien pierda toma || 1",
       "intensidad": -1
     },
     {
-      "texto": "Escribele a esa persona que sospechas que le gustas. ",
+      "texto": "Escribele a esa persona que sospechas que le gustas.  || 2",
       "intensidad": -1
     },
     {
-      "texto": "Actua como un gato por una ronda",
+      "texto": "Actua como un gato por una ronda || 1",
       "intensidad": -1
     }
   ]

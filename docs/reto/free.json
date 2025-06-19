@@ -1,123 +1,123 @@
 {
   "preguntas": [
     {
-      "texto": "Chupar un limón sin hacer expresiones",
+      "texto": "Chupar un limón sin hacer expresiones || 3",
       "intensidad": 1
     },
     {
-      "texto": "Recibir un pellizco de cada jugador",
+      "texto": "Recibir un pellizco de cada jugador || 4",
       "intensidad": 2
     },
     {
-      "texto": "{{YO}} lamer el pie del {{OTRO}}",
+      "texto": "{{YO}} lamer el pie del {{OTRO}} || 2",
       "intensidad": 3
     },
     {
-      "texto": "Con los ojos cerrados, debes adivinar de quien es la parte del cuerpo que tocas",
+      "texto": "Con los ojos cerrados, debes adivinar de quien es la parte del cuerpo que tocas || 2",
       "intensidad": 3
     },
     {
-      "texto": "Manda mensaje a tu ex",
+      "texto": "Manda mensaje a tu ex || 2",
       "intensidad": 2
     },
     {
-      "texto": "Debes mostrar tu último DM en instagram",
+      "texto": "Debes mostrar tu último DM en instagram || 3",
       "intensidad": 2
     },
     {
-      "texto": "{{YO}} y {{OTRO}},  5 minutos en el paraíso con el de tu izquierda",
+      "texto": "{{YO}} y {{OTRO}},  5 minutos en el paraíso con el de tu izquierda || 2",
       "intensidad": 3
     },
     {
-      "texto": "Quitate una prenda",
+      "texto": "Quitate una prenda || 2",
       "intensidad": 2
     },
     {
-      "texto": "Si tuvieras que casarte con {{OTRO}} , o {{OTRO}} , ¿a quién elegirías?",
+      "texto": "Si tuvieras que casarte con {{OTRO}} , o {{OTRO}} , ¿a quién elegirías? || 3",
       "intensidad": 3
     },
     {
-      "texto": "¿Matas, coges o te casas? // Banco de jugadores o celebridades.",
+      "texto": "¿Matas, coges o te casas? // Banco de jugadores o celebridades. || 3",
       "intensidad": 3
     },
     {
-      "texto": "Tienes que dar la hora cada 5 min. Si se te olvida, tomas shot.",
+      "texto": "Tienes que dar la hora cada 5 min. Si se te olvida, tomas shot. || 4",
       "intensidad": 1
     },
     {
-      "texto": "Nombra 3 cosas que te hagan gemir",
+      "texto": "Nombra 3 cosas que te hagan gemir || 4",
       "intensidad": 2
     },
     {
-      "texto": "Toma un trago de la bebida de {{OTRO}}",
+      "texto": "Toma un trago de la bebida de {{OTRO}} || 3",
       "intensidad": 1
     },
     {
-      "texto": "Come una cucharada de picante",
+      "texto": "Come una cucharada de picante || 4",
       "intensidad": 1
     },
     {
-      "texto": "Publica un estado de Instagram/ whatsapp vergonzoso",
+      "texto": "Publica un estado de Instagram/ whatsapp vergonzoso || 3",
       "intensidad": 1
     },
     {
-      "texto": "Cambia tu foto de perfil de whats por una que eligan los jugadores, debes dejarla al menos 3 rondas.",
+      "texto": "Cambia tu foto de perfil de whats por una que eligan los jugadores, debes dejarla al menos 3 rondas. || 1",
       "intensidad": 2
     },
     {
-      "texto": "Dale un beso a {{OTRO}} en la parte del cuerpo que prefieras",
+      "texto": "Dale un beso a {{OTRO}} en la parte del cuerpo que prefieras || 1",
       "intensidad": 3
     },
     {
-      "texto": "{{YO}} cambia una prenda con el {{OTRO}}.",
+      "texto": "{{YO}} cambia una prenda con el {{OTRO}}. || 1",
       "intensidad": 2
     },
     {
-      "texto": "Muestra a quienes tienes en \"close friends\"",
+      "texto": "Muestra a quienes tienes en \"close friends\" || 4",
       "intensidad": 2
     },
     {
-      "texto": "Llamale a tu ex",
+      "texto": "Llamale a tu ex || 1",
       "intensidad": 3
     },
     {
-      "texto": "Publica un estado de Instagram/ whatsapp llorando",
+      "texto": "Publica un estado de Instagram/ whatsapp llorando || 3",
       "intensidad": 2
     },
     {
-      "texto": "Ponerse un shot en la boca y pasarselo a otro jugador",
+      "texto": "Ponerse un shot en la boca y pasarselo a otro jugador || 2",
       "intensidad": 3
     },
     {
-      "texto": "{{YO}} y {{OTRO}} jueguen semana inglesa",
+      "texto": "{{YO}} y {{OTRO}} jueguen semana inglesa || 3",
       "intensidad": 3
     },
     {
-      "texto": "beso de 3 entre, {{YO}}, {{OTRO}} y {{OTRO}}.",
+      "texto": "beso de 3 entre, {{YO}}, {{OTRO}} y {{OTRO}}. || 2",
       "intensidad": 3
     },
     {
-      "texto": "No parpadear durante 1 minuto",
+      "texto": "No parpadear durante 1 minuto || 3",
       "intensidad": 1
     },
     {
-      "texto": "{{YO}} toma un body shot de {{OTRO}}.",
+      "texto": "{{YO}} toma un body shot de {{OTRO}}. || 3",
       "intensidad": 3
     },
     {
-      "texto": "Quitate la camisa",
+      "texto": "Quitate la camisa || 3",
       "intensidad": 3
     },
     {
-      "texto": "{{YO}} hazle un masaje a {{OTRO}} por 5 minutos",
+      "texto": "{{YO}} hazle un masaje a {{OTRO}} por 5 minutos || 3",
       "intensidad": 3
     },
     {
-      "texto": "{{YO}} susurrale algo sucio a {{OTRO}}.",
+      "texto": "{{YO}} susurrale algo sucio a {{OTRO}}. || 3",
       "intensidad": 2
     },
     {
-      "texto": "{{YO}} besa el cuello de {{OTRO}}.",
+      "texto": "{{YO}} besa el cuello de {{OTRO}}. || 4",
       "intensidad": 3
     }
   ]
