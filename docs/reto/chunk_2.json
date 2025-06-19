@@ -5,11 +5,11 @@
       "intensidad": -1
     },
     {
-      "texto": "enseña tus calzones a la fiesta",
-      "intensidad": -1
+      "texto": "Enseña tus calzones a la fiesta",
+      "intensidad": 2
     },
     {
-      "texto": "has duelo de miradas con @jugador2",
+      "texto": "has duelo de miradas con {{OTRO}}",
       "intensidad": -1
     },
     {
@@ -25,20 +25,20 @@
       "intensidad": -1
     },
     {
-      "texto": "Subi una hot candente a tu close friends. ",
-      "intensidad": -1
+      "texto": "Sube una foto/mesnaje hot candente a tu close friends. ",
+      "intensidad": 2
     },
     {
       "texto": "Tomate una turbo chela",
-      "intensidad": -1
+      "intensidad": 1
     },
     {
       "texto": "Tomate tu cuba con un reversaso",
-      "intensidad": -1
+      "intensidad": 1
     },
     {
       "texto": "Toma de una botalla con la tecnica del escorpion. ",
-      "intensidad": -1
+      "intensidad": 1
     },
     {
       "texto": "Con quien del grupo crees que tendrias mas problemas siendo pareja",
@@ -85,31 +85,31 @@
       "intensidad": -1
     },
     {
-      "texto": "Di el nombre completo de @jugador2",
+      "texto": "Di el nombre completo de {{OTRO}}",
       "intensidad": -1
     },
     {
-      "texto": "tienes 1 minuto para esconderte, y @jugador2 tiene 1 minuto para encontrarte, si te encuentran tomas. ",
-      "intensidad": -1
+      "texto": "Tienes 1 minuto para esconderte, y {{OTRO}} tiene 1 minuto para encontrarte, si te encuentran tomas. ",
+      "intensidad": 1
     },
     {
       "texto": "Canta una cancion en Karaoke",
       "intensidad": -1
     },
     {
-      "texto": "Carga a un jugador ",
+      "texto": "Carga a {{OTRO}}",
       "intensidad": -1
     },
     {
-      "texto": "Que un jugador te cargue",
+      "texto": "Que {{OTRO}} te cargue",
       "intensidad": -1
     },
     {
-      "texto": "Habla en otro idioma por un turno",
+      "texto": "Habla en otro idioma por un turno (si no sabes inventalo)",
       "intensidad": -1
     },
     {
-      "texto": "Crea un chisme del @jugador2",
+      "texto": "Crea un chisme de {{OTRO}}",
       "intensidad": -1
     },
     {

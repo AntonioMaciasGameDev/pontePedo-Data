@@ -2,31 +2,31 @@
   "preguntas": [
     {
       "texto": "Gira una botella, a quien señale la botella te tocara besar",
-      "intensidad": -1
+      "intensidad": 3
     },
     {
-      "texto": "Que @jugador2 te bese y tendras que besar a @jugador3 de la misma manera.",
-      "intensidad": -1
+      "texto": "Que {{OTRO}} te bese y tendras que besar a {{OTRO}} de la misma manera.",
+      "intensidad": 3
     },
     {
-      "texto": "@jugador1 y @jugador2 actuen eroticamente entre uds con un juego de rol (medico/pasiente, maestra/alumno, 50 sombras de grey)",
-      "intensidad": -1
+      "texto": "{{YO}} y {{OTRO}} actuen eroticamente entre ustedes con un juego de rol (medico/pasiente, maestra/alumno, 50 sombras de grey)",
+      "intensidad": 3
     },
     {
-      "texto": "Acaricia los labios de @jugador1",
-      "intensidad": -1
+      "texto": "Acaricia los labios de {{OTRO}}",
+      "intensidad": 2
     },
     {
-      "texto": "Dale 3 besos a @jugaor2 cada uno mas intenso que el anterior",
-      "intensidad": -1
+      "texto": "Dale 3 besos a {{OTRO}} cada uno mas intenso que el anterior",
+      "intensidad": 3
     },
     {
-      "texto": "@jugador2 se embarrara chocolate en alguna parte de su torso y @jugador 1 tendra que acabarse todo el chocolate",
-      "intensidad": -1
+      "texto": "{{OTRO}} se embarrara chocolate en alguna parte de su torso y {{YO}} tendra que acabarse todo el chocolate",
+      "intensidad": 3
     },
     {
       "texto": "Juega una ronda con las manos en tu espalda, alguien tendra que ayudarte a tomar.",
-      "intensidad": -1
+      "intensidad": 1
     },
     {
       "texto": "Di la caracteristica mas atractiva de cada persona en la fiesta",
@@ -37,8 +37,8 @@
       "intensidad": -1
     },
     {
-      "texto": "Juega una ronda en las piernas del @jugador2",
-      "intensidad": -1
+      "texto": "Juega una ronda en las piernas del {{OTRO}}",
+      "intensidad": 2
     },
     {
       "texto": "Llena tus cachetes de comida y quedate asi una ronda",
@@ -46,51 +46,51 @@
     },
     {
       "texto": "Besa la persona mas grande del grupo",
-      "intensidad": -1
+      "intensidad": 2
     },
     {
       "texto": "Depílate una parte de la pierna",
-      "intensidad": -1
+      "intensidad": 2
     },
     {
       "texto": "Deja que cada jugador te pinte algo en la cara",
-      "intensidad": -1
+      "intensidad": 2
     },
     {
       "texto": "Deja que te arrojen medio vaso de agua en la cara",
-      "intensidad": -1
+      "intensidad": 2
     },
     {
       "texto": "Muerde una cebolla",
-      "intensidad": -1
+      "intensidad": 1
     },
     {
       "texto": "Muerde un chile",
-      "intensidad": -1
+      "intensidad": 1
     },
     {
       "texto": "Abre una cerveza de una forma no convencional",
-      "intensidad": -1
+      "intensidad": 2
     },
     {
       "texto": "Deletrea la palabra \"ferrocarril\" de atras para adelante",
       "intensidad": -1
     },
     {
-      "texto": "Huelele la axila al @jugador2",
-      "intensidad": -1
+      "texto": "Huelele la axila a {{OTRO}}",
+      "intensidad": 2
     },
     {
       "texto": "Juega con tu trago en la mano por una ronda",
-      "intensidad": -1
+      "intensidad": 1
     },
     {
       "texto": "Llena tu vaso, tienes una ronda para acabartelo",
-      "intensidad": -1
+      "intensidad": 2
     },
     {
-      "texto": "casa jugador decidira si te besan o no, tendras que tomar un trago por cada persona que no te bese",
-      "intensidad": -1
+      "texto": "Cada jugador decidira si te besan o no, tendras que tomar un trago por cada persona que no te bese",
+      "intensidad": 3
     },
     {
       "texto": "Juega una ronda incado ",
@@ -113,12 +113,12 @@
       "intensidad": 2
     },
     {
-      "texto": "Envía un emoji sexy tu última conversación de whats o instragram",
+      "texto": "Envía un emoji sexy a tu última conversación de whats o instragram",
       "intensidad": 3
     },
     {
       "texto": "Haz una pose de portada de revista erótica (sin desnudo)",
-      "intensidad": 1
+      "intensidad": 2
     }
   ]
 }

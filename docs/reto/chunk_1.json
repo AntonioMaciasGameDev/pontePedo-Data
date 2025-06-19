@@ -5,7 +5,7 @@
       "intensidad": 2
     },
     {
-      "texto": "Ve con alguien y pregunta si quieren que les cantes una canción",
+      "texto": "Canta la cancion que {{OTRO}} te diga.",
       "intensidad": 3
     },
     {
@@ -17,12 +17,12 @@
       "intensidad": -1
     },
     {
-      "texto": "Hazle un baile sexy a @Jugador1",
-      "intensidad": -1
+      "texto": "Hazle un baile sexy a {{OTRO}}",
+      "intensidad": 3
     },
     {
-      "texto": "Hazle un striptease a @jugador1",
-      "intensidad": -1
+      "texto": "Hazle un striptease a {{OTRO}}",
+      "intensidad": 3
     },
     {
       "texto": "Cambia tu outfit con ropa que tengan a la mano",
@@ -33,20 +33,20 @@
       "intensidad": -1
     },
     {
-      "texto": "Recrea una posicion sexual con @jugador1",
-      "intensidad": -1
+      "texto": "Recrea una posicion sexual con {{OTRO}}",
+      "intensidad": 3
     },
     {
-      "texto": "Besale la oreja a @jugador1",
-      "intensidad": -1
+      "texto": "Besale la oreja a {{OTRO}}",
+      "intensidad": 2
     },
     {
-      "texto": "Tomate un shot del ombligo de @jugador1",
-      "intensidad": -1
+      "texto": "Tomate un shot del ombligo de {{OTRO}}",
+      "intensidad": 2
     },
     {
-      "texto": "@jugador1 intenta hacerle cosquillas a @jugador2 por 30 segundos",
-      "intensidad": -1
+      "texto": "{{OTRO}} hazle cosquillas a {{YO}} por 30 segundos",
+      "intensidad": 2
     },
     {
       "texto": "Tienes que sudar antes de la siguiente ronda, si no lo logras tomas. ",
@@ -54,7 +54,7 @@
     },
     {
       "texto": "Actua un orgasmo",
-      "intensidad": -1
+      "intensidad": 2
     },
     {
       "texto": "Actua como un animal por una ronda",
@@ -65,16 +65,16 @@
       "intensidad": -1
     },
     {
-      "texto": "Baila el paso de payaso de rodeo correctamente para no tomar",
+      "texto": "Baila el payaso de rodeo correctamente para no tomar",
       "intensidad": -1
     },
     {
-      "texto": "@jugador1 lame la axila del @jugador2",
-      "intensidad": -1
+      "texto": "{{YO}} lame la axila de {{OTRO}}",
+      "intensidad": 2
     },
     {
       "texto": "Dejate hacer una trensa o cambia tu peinado",
-      "intensidad": -1
+      "intensidad": 1
     },
     {
       "texto": "Imita el ruido de un pedo ",
@@ -85,7 +85,7 @@
       "intensidad": -1
     },
     {
-      "texto": "Llena tu vaso a tope y cada que tomes de tu vaso toma como perrito por una ronda",
+      "texto": "Llena tu vaso a tope y por una ronda, solo vas a tomar como perrito.",
       "intensidad": -1
     },
     {
@@ -93,7 +93,7 @@
       "intensidad": -1
     },
     {
-      "texto": "@jugador1 muerdele una pompa a @jugador2",
+      "texto": "{{YO}} muerdele una pompa a {{OTRO}}",
       "intensidad": -1
     },
     {
@@ -101,7 +101,7 @@
       "intensidad": -1
     },
     {
-      "texto": "Haz una llamada de broma a un amig@ y pídele dinero prestado",
+      "texto": "Marcale a un amig@ y pídele dinero prestado",
       "intensidad": -1
     },
     {
@@ -117,8 +117,8 @@
       "intensidad": -1
     },
     {
-      "texto": "@jugador1 juega 1 ronda agarrandole la mano a @jugador2",
-      "intensidad": -1
+      "texto": "{{YO}} juega 1 ronda agarrandole la mano a {{OTRO}}",
+      "intensidad": 2
     }
   ]
 }

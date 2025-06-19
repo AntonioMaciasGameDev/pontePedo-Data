@@ -9,7 +9,7 @@
       "intensidad": 2
     },
     {
-      "texto": "Jugador@1 lamer el pie del jugador @3",
+      "texto": "{{YO}} lamer el pie del {{OTRO}}",
       "intensidad": 3
     },
     {
@@ -21,11 +21,11 @@
       "intensidad": 2
     },
     {
-      "texto": "Debes mostrar tu último dm en instagram",
+      "texto": "Debes mostrar tu último DM en instagram",
       "intensidad": 2
     },
     {
-      "texto": "@jugador 1 y @jugador4,  5 minutos en el paraíso con el de tu izquierda",
+      "texto": "{{YO}} y {{OTRO}},  5 minutos en el paraíso con el de tu izquierda",
       "intensidad": 3
     },
     {
@@ -33,7 +33,7 @@
       "intensidad": 2
     },
     {
-      "texto": "Si tuvieras que casarte con @jugador 1, o @jugador 2, ¿a quién elegirías?",
+      "texto": "Si tuvieras que casarte con {{OTRO}} , o {{OTRO}} , ¿a quién elegirías?",
       "intensidad": 3
     },
     {
@@ -41,7 +41,7 @@
       "intensidad": 3
     },
     {
-      "texto": "@Jugador 1, tienes que dar la hora cada 5 min. Si se te olvida, tomas shot.",
+      "texto": "Tienes que dar la hora cada 5 min. Si se te olvida, tomas shot.",
       "intensidad": 1
     },
     {
@@ -49,7 +49,7 @@
       "intensidad": 2
     },
     {
-      "texto": "Toma un trago de la bebida del @jugador3",
+      "texto": "Toma un trago de la bebida de {{OTRO}}",
       "intensidad": 1
     },
     {
@@ -65,19 +65,19 @@
       "intensidad": 2
     },
     {
-      "texto": "Dale un beso a @jugador2 en la parte del cuerpo que prefieras",
+      "texto": "Dale un beso a {{OTRO}} en la parte del cuerpo que prefieras",
       "intensidad": 3
     },
     {
-      "texto": "@jugador 1 cambia una prenda con el @jugador 2.",
+      "texto": "{{YO}} cambia una prenda con el {{OTRO}}.",
       "intensidad": 2
     },
     {
-      "texto": "muestra a quienes tienes en \"close friends\"",
+      "texto": "Muestra a quienes tienes en \"close friends\"",
       "intensidad": 2
     },
     {
-      "texto": "llamale a tu ex",
+      "texto": "Llamale a tu ex",
       "intensidad": 3
     },
     {
@@ -89,11 +89,11 @@
       "intensidad": 3
     },
     {
-      "texto": "jugador 1 y jugador 2 juEguen semana inglesa",
+      "texto": "{{YO}} y {{OTRO}} jueguen semana inglesa",
       "intensidad": 3
     },
     {
-      "texto": "beso de 3 entre, @jugador1, @jugador2 y @jugador3",
+      "texto": "beso de 3 entre, {{YO}}, {{OTRO}} y {{OTRO}}.",
       "intensidad": 3
     },
     {
@@ -101,23 +101,23 @@
       "intensidad": 1
     },
     {
-      "texto": "jugador 1 toma un body shot de jugador 2",
+      "texto": "{{YO}} toma un body shot de {{OTRO}}.",
       "intensidad": 3
     },
     {
-      "texto": "quitate la camisa",
+      "texto": "Quitate la camisa",
       "intensidad": 3
     },
     {
-      "texto": "jugador 1 hazle un masaje a jugador 2 por 5 minutos",
+      "texto": "{{YO}} hazle un masaje a {{OTRO}} por 5 minutos",
       "intensidad": 3
     },
     {
-      "texto": "jugador 1 susurrale algo sucio a jugador 2",
+      "texto": "{{YO}} susurrale algo sucio a {{OTRO}}.",
       "intensidad": 2
     },
     {
-      "texto": "jugador 1 besa el cuello de jugador 2 ",
+      "texto": "{{YO}} besa el cuello de {{OTRO}}.",
       "intensidad": 3
     }
   ]

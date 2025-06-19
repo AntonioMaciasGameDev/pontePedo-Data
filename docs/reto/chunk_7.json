@@ -2,7 +2,7 @@
   "preguntas": [
     {
       "texto": "Quitate la cantidad de prendas que quieras que alguien tome ese mismo numero de shots.",
-      "intensidad": -1
+      "intensidad": 3
     },
     {
       "texto": "Enseña todo lo que traigas contigo, en tu bolsa, cartera, bolsillos.",

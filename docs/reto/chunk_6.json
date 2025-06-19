@@ -1,8 +1,8 @@
 {
   "preguntas": [
     {
-      "texto": "@jugador1 y @jugador2 dense un beso esquimal. ",
-      "intensidad": -1
+      "texto": "{{YO}} y {{OTRO}} dense un beso esquimal. ",
+      "intensidad": 2
     },
     {
       "texto": "Juega una ronda con los ojos cerrados",
@@ -10,10 +10,10 @@
     },
     {
       "texto": "Tu siguiente bebida preparatela con otro tipo de alcohol",
-      "intensidad": -1
+      "intensidad": 1
     },
     {
-      "texto": "Juga recargado del @jugador2 por una ronda",
+      "texto": "Juega recargado de {{OTRO}} por una ronda",
       "intensidad": -1
     },
     {
@@ -25,7 +25,7 @@
       "intensidad": -1
     },
     {
-      "texto": "ponle cafe soluble a tu bebida o una bolsita de te. ",
+      "texto": "Ponle cafe soluble a tu bebida o una bolsita de té. ",
       "intensidad": -1
     },
     {
@@ -38,43 +38,43 @@
     },
     {
       "texto": "Quitate 2 prendas, no te las podras volver a poner por el resto de la noche",
-      "intensidad": -1
+      "intensidad": 2
     },
     {
-      "texto": "Cada que vayas al baño te tendra que acompañar el @jugador2",
-      "intensidad": -1
+      "texto": "Cada que vayas al baño te tendra que acompañar el {{OTRO}}",
+      "intensidad": 2
     },
     {
-      "texto": "El @jugador2 tomara la cantidad de tragos que te quiera hacer tomar.",
-      "intensidad": -1
+      "texto": "{{OTRO}} tomara la cantidad de tragos que te quiera hacer tomar.",
+      "intensidad": 2
     },
     {
       "texto": "Bebe un trago por cada persona con quien tendrías un faje de los presentes",
-      "intensidad": -1
+      "intensidad": 2
     },
     {
       "texto": "Comete un huevo crudo",
+      "intensidad": 1
+    },
+    {
+      "texto": "{{YO}} y {{OTRO}} se ponen un hielo en la mano y cierran el puño es primero en soltarlo pierde y toma.",
       "intensidad": -1
     },
     {
-      "texto": "@jugador1 y @jugador2 se ponen un hielo en la mano y cierran el puño es primero en soltarlo pierde y toma.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Quien se ria toma",
-      "intensidad": -1
+      "texto": "Quien se ria primero toma",
+      "intensidad": 1
     },
     {
       "texto": "Voltea a ver el techo y adivina el color del piso",
       "intensidad": -1
     },
     {
-      "texto": "cierra los ojos y adivina cuántos cuadros hay en las paredes",
+      "texto": "Cierra los ojos y adivina cuántos cuadros hay en las paredes",
       "intensidad": -1
     },
     {
-      "texto": "besa la nuca del @jugador2",
-      "intensidad": -1
+      "texto": "Besa la nuca de {{OTRO}}",
+      "intensidad": 2
     },
     {
       "texto": "No puedes hablar por un turno.",
@@ -82,10 +82,10 @@
     },
     {
       "texto": "Quitate los calcetines, si no traes, quitate el calzon. ",
-      "intensidad": -1
+      "intensidad": 3
     },
     {
-      "texto": "rapea algo mientras el @jugador2 hace beatbox",
+      "texto": "Rapea algo mientras que {{OTRO}} hace beatbox",
       "intensidad": -1
     },
     {
@@ -93,7 +93,7 @@
       "intensidad": -1
     },
     {
-      "texto": "imita a un reptil por un turno",
+      "texto": "Imita a un reptil por un turno",
       "intensidad": -1
     },
     {
@@ -109,7 +109,7 @@
       "intensidad": -1
     },
     {
-      "texto": "@jugador1 y @jugador2 jueguen piedra papel o tijera, mejor de 3, quien pierda toma",
+      "texto": "{{YO}} y {{OTRO}} jueguen piedra papel o tijera, mejor de 3, quien pierda toma",
       "intensidad": -1
     },
     {

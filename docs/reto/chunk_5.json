@@ -25,7 +25,7 @@
       "intensidad": 2
     },
     {
-      "texto": "Di cual fue tu mejor o peor beso pero sin decir con quien fue",
+      "texto": "Describe cual fue tu mejor o peor beso pero sin decir con quien fue",
       "intensidad": 2
     },
     {
@@ -38,11 +38,11 @@
     },
     {
       "texto": "Dale una nalgada a la persona que esta a tu derecha",
-      "intensidad": 2
+      "intensidad": 3
     },
     {
       "texto": "Pasa un trago de una bebida a otra persona de boca a boca",
-      "intensidad": 2
+      "intensidad": 3
     },
     {
       "texto": "Di 3 cosas que harías por dinero y 1 gratis",
@@ -53,7 +53,7 @@
       "intensidad": 1
     },
     {
-      "texto": "Durante 5 segundos debes recibir \"pamba\" de todos",
+      "texto": "Durante 5 segundos debes recibir \"pamba\" de todos (un leve golpe en la cabeza u otra parte del cuerpo)",
       "intensidad": 2
     },
     {
@@ -93,7 +93,7 @@
       "intensidad": 2
     },
     {
-      "texto": "vierte tu bebida en algo que no sea un vaso, y toma de ahi.",
+      "texto": "Vierte tu bebida en algo que no sea un vaso, el grupo elije que, toma de ahi.",
       "intensidad": 1
     },
     {
@@ -101,8 +101,8 @@
       "intensidad": -1
     },
     {
-      "texto": "Deja que un jugador te de un beso",
-      "intensidad": -1
+      "texto": "Deja que {{OTRO}} te de un beso",
+      "intensidad": 2
     },
     {
       "texto": "Estira tus brazos hacia arriba de tu cabeza y mantenlos ahí durante una ronda",
@@ -117,8 +117,8 @@
       "intensidad": -1
     },
     {
-      "texto": "@jugador1 y @jugador2 juntes sus cachetes por 30 segundos. ",
-      "intensidad": -1
+      "texto": "{{YO}} y {{OTRO}} juntes sus cachetes por 30 segundos. ",
+      "intensidad": 1
     }
   ]
 }
