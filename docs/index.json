@@ -25,7 +25,7 @@
       "totalPreguntas": 150,
       "gratuitas": 10,
       "esPremiumOnly": false,
-      "color": "e57013"
+      "color": "e57013",
       "iconoURL": "https://tusitio.com/img/hot.png"
     },
      {
@@ -84,4 +84,5 @@
     }
   ]
 }
+
 
