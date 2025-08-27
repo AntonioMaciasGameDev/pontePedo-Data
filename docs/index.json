@@ -25,10 +25,9 @@
       "totalPreguntas": 150,
       "gratuitas": 10,
       "esPremiumOnly": false,
-      "color": "e57013",
       "iconoURL": "https://tusitio.com/img/hot.png"
     },
-     {
+    {
       "id": "shot",
       "nombre": "¡Shot!",
       "descripcion": "Tomas si cumples con las condicionantes. Alternativamente, puedes permitirle al jugador elegir quién toma, si cumple una condicionante.",
@@ -46,7 +45,7 @@
       "esPremiumOnly": false,
       "iconoURL": "https://antoniomaciasgamedev.github.io/pontePedo-Data/docs/reto/reto.png"
     },
-     {
+    {
       "id": "yonuncanunca",
       "nombre": "Yo nunca nunca",
       "descripcion": "Presentamos un escenario. Quienes hayan hecho lo que 'nunca nunca' se ha hecho, toman.",
@@ -84,5 +83,6 @@
     }
   ]
 }
+
 
 
